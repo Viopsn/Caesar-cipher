@@ -111,12 +111,3 @@ This can be a number (26 or less), a letter or a word (no spaces).
 
 else:
     print("That input was invalid.")
-
-
-
-
-
-
-
-
-    
